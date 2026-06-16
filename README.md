@@ -21,5 +21,5 @@ Quantitative-finance rigor meets a crypto-native toolkit. Previously on-chain an
 </picture>
 
 ### Connect
-- [Portfolio](https://marcllopart.github.io/MarcLlopart-portfolio)
+- [Portfolio](https://marcllopart.github.io)
 - [LinkedIn](https://www.linkedin.com/in/marc-llopart-enajas/)
